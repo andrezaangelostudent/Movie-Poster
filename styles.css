@@ -1,0 +1,248 @@
+p {
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    color:#1B3D81; /*select the color*/
+    position: absolute; /*select the position*/
+            bottom: -260px; /*select the bottom height*/
+            left: 30px; /*left distance*/
+            padding: 10px; /*select the padding*/
+            width: 35%; /*select the width*/
+            font-size:14px; /*select the font size*/
+            text-align: center; /*centralize the text*/
+
+
+}
+
+img src {
+    width:150px; /*select the width*/
+    height: 200px; /*select the height*/
+
+}
+
+h1 {
+
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    font-size:100px; /*select the font size*/ 
+    position: absolute; /*select the position*/
+    bottom: -190px; /*select the bottom height*/
+    left: 45px; /*left distance*/
+    padding: 10px; /*select the padding*/
+    width: 35%; /*select the width*/
+    color:#B68D40; /*select the color*/
+
+}
+
+.studio {
+
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    color:#B68D40; /*select the color*/
+   position: absolute; /*select the position*/
+            bottom: -170px; /*select the bottom height*/
+            left: 30px; /*left distance*/
+            padding: 10px; /*select the padding*/
+            width: 35%; /*select the width*/
+            font-size:25px;  /*select the font size*/ 
+            text-align: center; /*centralize the text*/
+}
+
+ul li  {
+    display: inline-block; /*display in line*/
+    text-decoration: none;    /*no text decoration*/
+    font-size: 26px; /*select the font size*/ 
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    color:#B68D40; /*select the color*/
+    padding: 1px 15px; /*select the padding*/
+    position: relative; /*select the position*/
+    bottom: 1000px; /*select the bottom height*/
+    margin-left: -25px; /*select the margin left position*/
+   
+
+    
+} 
+
+.Producer {
+    font-family: 'Bebas Neue', sans-serif; /*select the font*/
+    font-size:24px; /*select the font size*/ 
+    position: absolute; /*select the position*/
+    bottom: -30px; /*select the bottom height*/
+    background: rgb(234, 13, 13); /*background color*/
+    color:rgb(254, 254, 254);/*background color*/
+    width: 47px; /*select the width*/
+    height: 5px; /*background height*/
+    margin-left: 220px; /*margin to left*/
+    line-height: 8px; /*select the height*/
+    padding-left: 0; /*select the padding left*/
+
+}
+
+.Peter {
+    height: 200px;/*select the height*/
+    width: 200px;/*select the width*/
+    border-radius: 50%; /*let the image with a circle format*/
+    padding:4px 60px; /*select the padding*/
+    position:absolute; /*select the position*/
+	left: 700px; /*select the left distance*/
+	top: 90px;/*select the top position */
+ 
+    
+}
+
+.Gamora {
+    height: 200px; /*select the height*/
+    width: 200px; /*select the width*/
+    border-radius: 50%; /*let the image with a circle format*/
+    padding:4px 60px; /*select the padding*/
+    position:absolute; /*select the position*/
+	left: 1020px; /*select the left distance*/
+	top: 90px; /*select the top position */
+    
+}
+
+.Rocket {
+    height: 200px; /*select the height*/
+    width: 200px; /*select the width*/
+    border-radius: 50%; /*let the image with a circle format*/
+    padding:4px 60px; /*select the padding*/
+    position:absolute; /*select the position*/
+	left: 550px; /*select the left distance*/
+	top: 350px; /*select the top position */
+    
+}
+
+.Drax {
+    height: 200px; /*select the height*/
+    width: 200px; /*select the width*/
+    border-radius: 50%; /*let the image with a circle format*/
+    padding:4px 60px; /*select the padding*/
+    position:absolute; /*select the position*/
+	left: 850px; /*select the left distance*/
+	top: 350px; /*select the top position */
+    
+}
+
+.Groot {
+    height: 200px; /*select the height*/
+    width: 200px; /*select the width*/
+    border-radius: 50%; /*let the image with a circle format*/
+    padding:4px 60px; /*select the padding*/
+    position:absolute; /*select the position*/
+	left: 1150px; /*select the left distance*/
+	top: 350px; /*select the top position */
+    
+}
+  
+
+.Groot:hover {
+    -webkit-filter: opacity(.5); /*create a hover effect with opacity*/
+   filter: opacity(.5); /*create a hover effect with opacity*/
+}
+
+.Drax:hover {
+    -webkit-filter: opacity(.5); /*create a hover effect with opacity*/
+   filter: opacity(.5); /*create a hover effect with opacity*/
+}
+
+.Gamora:hover {
+    -webkit-filter: opacity(.5); /*create a hover effect with opacity*/
+   filter: opacity(.5); /*create a hover effect with opacity*/
+}
+
+.Peter:hover {
+    -webkit-filter: opacity(.5); /*create a hover effect with opacity*/
+   filter: opacity(.5); /*create a hover effect with opacity*/
+}
+
+.Rocket:hover {
+    -webkit-filter: opacity(.5); /*create a hover effect with opacity*/
+   filter: opacity(.5); /*create a hover effect with opacity*/
+}
+
+.Wikipeter {
+    color:rgb(19, 19, 87);  /*select the color*/
+    text-decoration: none; /*select the text decoration*/    
+    font-size: 30px; /*select the font size*/
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    float:left; /*select the position to left*/
+    left: 815px; /*select the left position*/
+	top: -680px; /*select the top position*/
+    position: absolute; /*select the position*/
+
+}
+
+
+.Wikigamora {
+    color:rgb(19, 19, 87); /*select the color*/
+    text-decoration: none; /*select the text decoration*/   
+    font-size: 30px; /*select the font size*/
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    float:left; /*select the position to left*/
+    left: 1135px; /*select the left position*/
+	top: -680px; /*select the top position*/
+    position: absolute; /*select the position*/
+
+}
+
+.Wikirocket {
+    color:rgb(19, 19, 87); /*select the color*/
+    text-decoration: none; /*select the text decoration*/     
+    font-size: 30px; /*select the font size*/
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    float:left; /*select the position to left*/
+    left: 660px;  /*select the left position*/
+	top: -420px; /*select the top position*/
+    position: absolute; /*select the position*/
+
+}
+
+.Wikidrax {
+    color:rgb(19, 19, 87); /*select the color*/
+    text-decoration: none;  /*select the text decoration*/   
+    font-size: 30px; /*select the font size*/
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    float:left; /*select the position to left*/
+    left: 965px; /*select the left position*/
+	top: -420px; /*select the top position*/
+    position: absolute; /*select the position*/
+
+}
+
+.Wikigroot {
+    color:rgb(19, 19, 87); /*select the color*/
+    text-decoration: none; /*select the text decoration*/     
+    font-size: 30px; /*select the font size*/
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    float:left; /*select the position to left*/
+    left: 1270px; /*select the left position*/
+	top: -420px; /*select the top position*/
+    position: absolute; /*select the position*/
+
+}
+
+.Review {
+    color:rgb(19, 19, 87); /*select the color*/
+    text-decoration: none; /*select the text decoration*/     
+    font-size: 50px; /*select the font size*/
+    font-family: 'Climate Crisis', sans-serif; /*select the font*/
+    font-family: 'Six Caps', sans-serif; /*select the font*/
+    float:left; /*select the position to left*/
+    left: 600px; /*select the left position*/
+	top: -300px; /*select the top position*/
+    position: absolute; /*select the position*/
+    display: inline;  /*display inline*/
+    white-space: nowrap;  /*display inline*/
+  
+
+}
+
+html {  
+     background-image: url("images/Galaxy.jpg");  /*background image*/  
+     background-size: cover; /*image covering all page*/
+
+    }
